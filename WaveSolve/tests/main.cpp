@@ -1,7 +1,7 @@
-#include <iostream>
+#include "fft.test.hpp"
 
 int main()
 {
-    std::cout << "Hello, world!" << std::endl;
+    fft_test_main();
     return 0;
 }
